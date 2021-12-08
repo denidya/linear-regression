@@ -33,5 +33,5 @@ This data have info such as Email, Address and color avatar. Then it also have n
   | MSE           | 79.8130       | 
   | RMSE          | 8.9338        | 
 
-- Check Residual/Data Distributed
+- Check Residual/Data Distributed <br />
   ![residual](https://user-images.githubusercontent.com/41662335/145140823-7855750f-66e1-433e-82ff-cd78a5a956ff.png)
