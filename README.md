@@ -27,16 +27,10 @@ This data have info such as Email, Address and color avatar. Then it also have n
 
 ## Evaluating Model
 - Calculate MAE (Mean Absolute Error), MSE (Mean Squared Error), RMSE (Root Mean Squared Error)
-| Metrics  | Residual  |
-| -------- | --------: |
-| MAE      | 7.2281    |
-| MSE      | 79.8130   |
-| RMSE     | 8.9338    |
-
-| Metrics       | Residual      | 
-| ------------- | -------------:| 
-| MAE           | 7.2281        | 
-| MSE           | 79.8130       | 
-| RMSE          | 8.9338        | 
+  | Metrics       | Residual      | 
+  | ------------- | -------------:| 
+  | MAE           | 7.2281        | 
+  | MSE           | 79.8130       | 
+  | RMSE          | 8.9338        | 
 
 - Check Residual/Data Distributed
