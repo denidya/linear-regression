@@ -15,11 +15,11 @@ This data have info such as Email, Address and color avatar. Then it also have n
 - Length of Membership: How many years the customer has been a member.
 
 ## Some Correlation chart
-- Time on Website vs Yearly Amount Spent <br />
+- Time on Website vs Yearly Amount Spent <br /> <br />
   ![time on website vs yearly amount spent](https://user-images.githubusercontent.com/41662335/145139027-1d1a0cf6-635f-41e7-afdc-e1adbec29daa.png)
-- Time on Apps vs Yearly Amount Spent <br />
+- Time on Apps vs Yearly Amount Spent <br /> <br />
   ![time on apps vs yearly amount spent](https://user-images.githubusercontent.com/41662335/145139164-9b533078-21a8-4745-b3b6-9a8ab86af99a.png)
-- Length of Membership vs Yearly Amount Spent <br />
+- Length of Membership vs Yearly Amount Spent <br /> <br />
   ![length of membership vs yearly amount spent](https://user-images.githubusercontent.com/41662335/145139213-88b3054d-5a7f-4760-a7e2-7088ccbf0d77.png)
 
 ## Comparation Test Data & Prediction 
@@ -33,5 +33,5 @@ This data have info such as Email, Address and color avatar. Then it also have n
   | MSE           | 79.8130       | 
   | RMSE          | 8.9338        | 
 
-- Check Residual/Data Distributed <br />
+- Check Residual/Data Distributed <br /> <br />
   ![residual](https://user-images.githubusercontent.com/41662335/145140823-7855750f-66e1-433e-82ff-cd78a5a956ff.png)
