@@ -33,4 +33,10 @@ This data have info such as Email, Address and color avatar. Then it also have n
 | MSE      | 79.8130   |
 | RMSE     | 8.9338    |
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 - Check Residual/Data Distributed
