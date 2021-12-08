@@ -24,3 +24,13 @@ This data have info such as Email, Address and color avatar. Then it also have n
 
 ## Comparation Test Data & Prediction 
 ![scatterplot real test vs prediction](https://user-images.githubusercontent.com/41662335/145139557-29563df0-992f-44a9-9ec2-33e3745535b7.png)
+
+## Evaluating Model
+- Calculate MAE (Mean Absolute Error), MSE (Mean Squared Error), RMSE (Root Mean Squared Error)
+| Metrics  | Residual  |
+| -------- | --------: |
+| MAE      | 7.2281    |
+| MSE      | 79.8130   |
+| RMSE     | 8.9338    |
+
+- Check Residual/Data Distributed
