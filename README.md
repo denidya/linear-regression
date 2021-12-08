@@ -46,7 +46,7 @@ This data have info such as Email, Address and color avatar. Then it also have n
   | length_of_membership  | 61.279097  |
   
 - Interpreting Coefficient
-  Increasing 1 unit in **avg_session_length** means increasing **25.98 dollars spent.** 
-  Increasing 1 unit in **time_on_app** means increasing **38.59 dollar spent.**
-  Increasing 1 unit in **time_on_website** means increasing **0.90 dollars spent.**
-  Increasing 1 unit in **length_of_membership** means increasing **61.27 dollars spent.**
+  Increasing 1 unit in **avg_session_length** means increasing **25.98 dollars spent.** <br />
+  Increasing 1 unit in **time_on_app** means increasing **38.59 dollar spent.** <br />
+  Increasing 1 unit in **time_on_website** means increasing **0.90 dollars spent.** <br />
+  Increasing 1 unit in **length_of_membership** means increasing **61.27 dollars spent.** <br />
