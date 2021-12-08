@@ -1,5 +1,5 @@
 # Linear Regression : Overview
-In this project i used data from [Kaggle](https://github.com/denidya/linear-regression/blob/main/Ecommerce%20Customers) and doing little exploration data analysis to see correlation between feature.
+In this project i used data from [E-Commerce Data](https://github.com/denidya/linear-regression/blob/main/Ecommerce%20Customers) and doing little exploration data analysis to see correlation between feature.
 
 ## Codes & Resources Used
 - Editor Used : VS Code
