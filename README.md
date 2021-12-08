@@ -21,3 +21,6 @@ This data have info such as Email, Address and color avatar. Then it also have n
   ![time on apps vs yearly amount spent](https://user-images.githubusercontent.com/41662335/145139164-9b533078-21a8-4745-b3b6-9a8ab86af99a.png)
 - Length of Membership vs Yearly Amount Spent <br />
   ![length of membership vs yearly amount spent](https://user-images.githubusercontent.com/41662335/145139213-88b3054d-5a7f-4760-a7e2-7088ccbf0d77.png)
+
+## Comparation Real Test & Prediction 
+![scatterplot real test vs prediction](https://user-images.githubusercontent.com/41662335/145139557-29563df0-992f-44a9-9ec2-33e3745535b7.png)
