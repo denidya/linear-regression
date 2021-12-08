@@ -35,3 +35,14 @@ This data have info such as Email, Address and color avatar. Then it also have n
 
 - Check Residual/Data Distributed <br />
   ![residual](https://user-images.githubusercontent.com/41662335/145140823-7855750f-66e1-433e-82ff-cd78a5a956ff.png)
+ 
+## Conclusion
+- Check Coefficient
+  | Feature               | Metrics    | 
+  | --------------------- | -----------| 
+  | avg_session_length    | 25.981550  | 
+  | time_on_app           | 38.590159  | 
+  | time_on_website       | 0.190405   |
+  | length_of_membership  | 61.279097  |
+  
+- Interpreting Coefficient
